@@ -15,7 +15,7 @@
         "startDate": "2024",
         "description": "Quantified hitter tools using ball tracking data. Evaluated players on Power, Swing Decisions, Speed, and Contact. The model, which ensures minimal correlation between grades, was found to be more predictive of next season's results (wRC+) than public metrics like Process+ and wRC+.",
         "images": [
-          "images/portfolio/pitchgrader/p1.jpg"
+          "images/portfolio/hitter_tool_grades/p1.jpg"
         ],
         "url": "",
         "technologies": [
