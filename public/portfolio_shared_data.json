@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Reece Calvin",
-      "titles": [ "Data Scientist", "Data Engineer", "Baseball Analytics", "Baseball Player Development" ],
+      "titles": [ "Data Scientist", "Data Analyst", "Quantitative Analyst", "Baseball Analytics" ],
       "social": [
         {
           "name": "github",
@@ -9,9 +9,14 @@
           "class": "fab fa-github"
         },
         {
-          "name": "twitter",
-          "url": "https://twitter.com/reece_ca1vin",
-          "class": "fab fa-twitter"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/reece-calvin/",
+          "class": "fab fa-linkedin"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/reece_ca1vin",
+            "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
@@ -20,28 +25,48 @@
       "icons": [
         {
           "name": "Python",
-          "class": "devicon-python-wordmark",
+          "class": "devicon-python-plain",
           "level": "95"
         },
         {
-          "name": "Baseball Analytics",
-          "class": "devicon-baseball-plain",
+          "name": "SQL",
+          "class": "devicon-mysql-plain",
+          "level": "80"
+        },
+        {
+          "name": "R",
+          "class": "devicon-r-plain",
+          "level": "70"
+        },
+        {
+          "name": "PyTorch",
+          "class": "devicon-pytorch-plain",
+          "level": "80"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
           "level": "90"
         },
         {
           "name": "Machine Learning",
-          "class": "IBM-machine-learning-model",
+          "class": "fas fa-brain",
           "level": "90"
         },
         {
-          "name": "Rapsodo",
-          "class": "devicon-baseball-plain",
+          "name": "Baseball Analytics",
+          "class": "fas fa-baseball-ball",
+          "level": "95"
+        },
+        {
+          "name": "Stan",
+          "class": "fas fa-code",
           "level": "80"
         },
         {
-          "name": "SQL",
-          "class": "devicon-sqldeveloper-plain",
-          "level": "60"
+          "name": "XGBoost",
+          "class": "fas fa-project-diagram",
+          "level": "85"
         }
       ]
     }
